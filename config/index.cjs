@@ -41,23 +41,21 @@ const USER_CONFIG = {
       ],
       // 我们认识已经有xxxx天了的配置
       customizedDateList: [
-        // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        // 在一起玩耍的日子
+        { keyword: 'love_day', date: '2024-01-01' },
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: '79dXti9uM2UOl8Oufa3lcSZ-dZHmUdiX3Rl1dxSqv0c',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'oE1Jz6QHxFLa-rQZo31jhAYBkZuM',
     }
   ],
 
